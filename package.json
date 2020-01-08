@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_basicprograms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaishnavisantosh/NodeJS_basicPrograms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaishnavisantosh/NodeJS_basicPrograms/issues"
+  },
+  "homepage": "https://github.com/vaishnavisantosh/NodeJS_basicPrograms#readme",
+  "dependencies": {
+    "@babel/node": "^7.7.7"
+  }
+}
